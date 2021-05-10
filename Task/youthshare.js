@@ -4,6 +4,7 @@ let md5 = require('md5-node');
 let nowTime;
 let wxck;
 let articles = [
+""
 ]
 
 let encodearticles;
