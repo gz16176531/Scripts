@@ -4,7 +4,10 @@ let md5 = require('md5-node');
 let nowTime;
 let wxck;
 let articles = [
-""
+ "https://focus.youth.cn/article/s?signature=8MzJgNdEKAO0xvq7nREZgJSrmEWjt5VedZX7ZPYQ3lm9pbD2yn&uid=11671894&phone_code=b93efae13c60ac1cd32891ec70b97956&scid=36993818&time=1616600097&app_version=1.8.0&sign=217ecd132530a79fb88fb9d8099af208",
+ "https://focus.youth.cn/article/s?signature=P5zR0VlwdZoWp3N4Kk9gZ9UNkjpmTZMyymL4MQLb6BeXxq2kEr&uid=55921524&phone_code=3f1b65597f9bc4a423477ce6e0ac525b&scid=38225184&time=1620659517&app_version=1.8.0&sign=ce98c444ff14e7ff08ea2d0168f5782b",
+ "https://focus.youth.cn/article/s?signature=qbBkjWwN2L3nP684eJjPebCYJmrQSBo0Lex7gRyAEYpXDmeo0O&uid=55091690&phone_code=17d23401af1d9b6b51f83f940388044e&scid=37466547&time=1618541966&app_version=2.0.2&sign=a93df150149f05f782736297a42dc78e"
+
 ]
 
 let encodearticles;
